@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\Ng\u00F4n Ng\u1EEF Ph\u00E1t Tri\u1EC3n \u1EE8ng D\u1EE5ng M\u1EDBi\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc\\b\u00E1o c\u00E1o \u0111\u1ED1 \u00E1n\\Thuesanpham_LBT Tek\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30E0323E-5582-4A49-BEA8-4A1083C80FE3}|ShopsDefault\\ShopsDefault.csproj|c:\\users\\admin\\desktop\\ng\u00F4n ng\u1EEF ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng m\u1EDBi\\\u0111\u1ED3 \u00E1n m\u00F4n h\u1ECDc\\b\u00E1o c\u00E1o \u0111\u1ED1 \u00E1n\\thuesanpham_lbt tek\\shopsdefault\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{30E0323E-5582-4A49-BEA8-4A1083C80FE3}|ShopsDefault\\ShopsDefault.csproj|solutionrelative:shopsdefault\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Ng\u00F4n Ng\u1EEF Ph\u00E1t Tri\u1EC3n \u1EE8ng D\u1EE5ng M\u1EDBi\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc\\b\u00E1o c\u00E1o \u0111\u1ED1 \u00E1n\\Thuesanpham_LBT Tek\\ShopsDefault\\Web.config",
+              "RelativeDocumentMoniker": "ShopsDefault\\Web.config",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Ng\u00F4n Ng\u1EEF Ph\u00E1t Tri\u1EC3n \u1EE8ng D\u1EE5ng M\u1EDBi\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc\\b\u00E1o c\u00E1o \u0111\u1ED1 \u00E1n\\Thuesanpham_LBT Tek\\ShopsDefault\\Web.config",
+              "RelativeToolTip": "ShopsDefault\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-02T15:46:58.597Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
